@@ -1,0 +1,41 @@
+{
+  "summary" : "Export artboards as json",
+  "languages" : [ "en" ],
+  "author" : "Tanner Mickelson",
+  "name" : "JSON Export",
+  "host" : {
+    "app" : "XD",
+    "minVersion" : "13.0"
+  },
+  "description" : "Export connections between artboards as a json file.",
+  "helpUrl" : "https://github.com/DarthCoder117/JsonExportXD/blob/master/README.md",
+  "id" : "dec953c6",
+  "icons" : [ {
+    "path" : "images/icon@1x.png",
+    "width" : 24,
+    "height" : 24
+  }, {
+    "path" : "images/icon@2x.png",
+    "width" : 48,
+    "height" : 48
+  }, {
+    "path" : "images/icon@3x.png",
+    "width" : 96,
+    "height" : 96
+  }, {
+    "path" : "images/icon@4x.png",
+    "width" : 144,
+    "height" : 144
+  }, {
+    "path" : "images/icon@5x.png",
+    "width" : 192,
+    "height" : 192
+  } ],
+  "uiEntryPoints" : [
+	  {
+		"type" : "menu",
+		"commandId" : "exportJson"
+	  } 
+  ],
+  "version" : "0.0.1"
+}
