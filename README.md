@@ -1,6 +1,9 @@
-# ![JSON](images/icon@4x.png)
+# ![JSON](images/header.png)
 
-Adobe XD plugin to export Artboards and interactions as JSON
+Adobe XD plugin to export Artboards and interactions as JSON.
+
+* [English](#)
+* [日本語](README.ja.md)
 
 ## Usage
 
