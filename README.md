@@ -1,4 +1,5 @@
-# JsonExportXD
+# ![JSON](images/icon@4x.png)
+
 Adobe XD plugin to export Artboards and interactions as JSON
 
 ## Usage
